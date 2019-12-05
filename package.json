@@ -1,0 +1,24 @@
+{
+  "name": "com.verso.cordova.clipboard",
+  "version": "1.0.0",
+  "description": "Clipboard management plugin for Cordova/PhoneGap",
+  "cordova": {
+    "id": "com.verso.cordova.clipboard",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "paste",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-wp8"
+  ],
+  "author": "Muhammed Noufal",
+  "license": "ISC"
+}
